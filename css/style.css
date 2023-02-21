@@ -1,0 +1,860 @@
+@media screen and (min-width: 1400px) {
+  .con-1 {
+    background-image: url("https://cdn.discordapp.com/attachments/1063096711821660241/1063153697691025478/fon-image.png");
+    background-size: 100%;
+    height: 800px;
+    --moz-background-size:100%;
+    -webkit-background-size: 100%;
+    -o-background-size: 100%;
+    max-width: 100%;
+  }
+}
+@media screen and (max-width: 1400px) {
+  .con-1 {
+    background-image: url("https://cdn.discordapp.com/attachments/1063096711821660241/1063153697691025478/fon-image.png");
+    height: 800px;
+  }
+}
+.navbar-brand svg {
+  position: absolute;
+}
+.navbar-brand .logo-first {
+  left: 32px;
+}
+.navbar-brand .logo {
+  position: relative;
+  width: 100px;
+  height: 67.96px;
+}
+
+.navbar-toggler {
+  color: #fff;
+}
+
+.navbar-container {
+  color: #fff;
+}
+
+.nav-link {
+  color: #fff;
+}
+
+.navbar-nav {
+  color: #fff;
+}
+.navbar-nav img {
+  height: 13px;
+  width: 13px;
+}
+
+.navbar-collapse ul {
+  margin-right: 35px;
+  margin-bottom: 1%;
+}
+.navbar-collapse .img-cart {
+  margin-right: 15.32px;
+}
+.navbar-collapse .img-line {
+  margin-right: 34px;
+}
+.navbar-collapse .contacts {
+  width: 154px;
+  height: 64px;
+  margin-right: 50px;
+}
+.navbar-collapse .contacts__text-1 {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  color: #FFFFFF;
+}
+.navbar-collapse .contacts__text-2 {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  color: #FFFFFF;
+}
+
+.nav-btn {
+  width: 157px;
+  height: 47px;
+  background: #FF7400;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 19px;
+  color: #FFFFFF;
+  border: 0;
+}
+
+.main-text {
+  max-width: 556px;
+  max-height: 250px;
+  position: absolute;
+  left: 19%;
+  top: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-text_text-1 {
+  font-family: "Tinos";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 57px;
+  color: #D67E35;
+}
+.main-text_text-2 {
+  font-family: "Tinos";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 80px;
+  line-height: 92px;
+  color: #D67E35;
+}
+.main-text_text-3 {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  color: #fff;
+}
+
+.main-text-btn {
+  width: 137px;
+  height: 47px;
+  left: 356px;
+  top: 522px;
+  border: 0;
+  background: #FF7400;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 19px;
+  color: #fff;
+}
+
+.our-story {
+  position: absolute;
+  max-width: 444px;
+  text-align: center;
+}
+.our-story_text-1 {
+  font-family: "Tinos";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 54px;
+  line-height: 62px;
+}
+.our-story_text-1 span {
+  color: #a57308;
+}
+.our-story_text-2 {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #656363;
+}
+.our-story_elements {
+  display: flex;
+  text-align: center;
+  position: relative;
+  left: 6%;
+  top: 330px;
+}
+.our-story_element-1 {
+  margin-right: 41px;
+}
+.our-story_element-1 span {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 54px;
+  text-align: center;
+  color: #BC9060;
+}
+.our-story_element-2 {
+  margin-right: 30px;
+}
+.our-story_element-2 span {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 54px;
+  text-align: center;
+  color: #BC9060;
+}
+.our-story_element-3 span {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 54px;
+  text-align: center;
+  color: #BC9060;
+}
+
+.mb-5 {
+  margin-bottom: 347px !important;
+}
+
+.con-our-story_image-1 {
+  position: relative;
+  left: 70%;
+  top: -160px;
+  z-index: -4;
+}
+
+.con-our-story_image-2 {
+  position: relative;
+  left: 50%;
+  top: -100px;
+  z-index: -3;
+}
+
+.con-our-story_image-3 {
+  position: relative;
+  left: 40%;
+  top: 50px;
+  z-index: -2;
+}
+
+.con-our-story_image-4 {
+  position: relative;
+  left: 5%;
+  top: -80px;
+  z-index: -1;
+}
+
+.second-slide-site {
+  max-width: 1440px;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+  top: -200px;
+}
+
+.cards-second-slide {
+  display: flex;
+  justify-content: center;
+}
+
+.cards {
+  position: relative;
+  top: -450px;
+  margin: 0 auto;
+}
+.cards img {
+  margin-bottom: 10px;
+}
+.cards__elements_element-1 {
+  padding-bottom: 20px;
+  margin-right: 31px;
+  max-width: 349px;
+  background: #FFFFFF;
+  font-family: "Tinos";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 30px;
+  text-align: center;
+  box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
+}
+.cards__elements_element-2 {
+  padding-bottom: 20px;
+  margin-right: 31px;
+  max-width: 349px;
+  background: #FFFFFF;
+  font-family: "Tinos";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 30px;
+  text-align: center;
+  box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
+}
+.cards__elements_element-3 {
+  padding-bottom: 20px;
+  box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
+  max-width: 349px;
+  background: #FFFFFF;
+  font-family: "Tinos";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 30px;
+  text-align: center;
+}
+
+.macro-text {
+  color: #a8960a;
+}
+
+.mini-text {
+  color: #656363;
+  font-family: "Tinos";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 30px;
+}
+
+@media screen and (min-width: 1399px) {
+  .info-slide {
+    min-width: 1519px;
+    height: 357px;
+    background-image: url("https://cdn.discordapp.com/attachments/1063096711821660241/1063399237737533440/bg.png");
+    --moz-background-size:100%;
+    background-size: 100%;
+  }
+}
+@media screen and (max-width: 1399px) {
+  .info-slide {
+    max-width: 1440px;
+    height: 357px;
+    background-image: url("https://cdn.discordapp.com/attachments/1063096711821660241/1063399237737533440/bg.png");
+  }
+}
+@media screen and (min-width: 1387px) and (max-width: 1534px) {
+  .info-slide {
+    min-width: 1387px;
+    height: 357px;
+    background-image: url("https://cdn.discordapp.com/attachments/1063096711821660241/1063399237737533440/bg.png");
+    --moz-background-size:100%;
+    background-size: 100%;
+  }
+}
+.info-slide {
+  position: relative;
+}
+
+@media screen and (min-width: 1200px) {
+  .big-text-block {
+    text-align: center;
+    position: relative;
+    left: 11%;
+    top: 230px;
+    max-width: 40%;
+    height: 120px;
+    font-family: "Tinos";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 52px;
+    line-height: 60px;
+    z-index: 10;
+    color: #D67E34;
+  }
+  .small-text {
+    color: #fff;
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+  }
+  .info-block-btn {
+    position: relative;
+    top: -100%;
+    left: 130%;
+  }
+}
+@media screen and (min-width: 1390px) {
+  .big-text-block {
+    text-align: center;
+    position: relative;
+    left: 18%;
+    top: 230px;
+    max-width: 40%;
+    height: 120px;
+    font-family: "Tinos";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 52px;
+    line-height: 60px;
+    z-index: 10;
+    color: #D67E34;
+  }
+  .small-text {
+    color: #fff;
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+  }
+  .info-block-btn {
+    position: absolute;
+    top: 20%;
+    left: 130%;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .big-text-block {
+    text-align: center;
+    position: relative;
+    left: 11%;
+    top: 200px;
+    max-width: 70%;
+    height: 120px;
+    font-family: "Tinos";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 60px;
+    z-index: 10;
+    color: #D67E34;
+  }
+  .small-text {
+    color: #fff;
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+  }
+  .info-block-btn {
+    position: relative;
+    width: 100px;
+    top: -50px;
+    left: 160px;
+  }
+}
+@media screen and (max-width: 828px) {
+  .big-text-block {
+    text-align: center;
+    position: relative;
+    left: 11%;
+    top: 200px;
+    max-width: 70%;
+    height: 120px;
+    font-family: "Tinos";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 60px;
+    z-index: 10;
+    color: #D67E34;
+  }
+  .small-text {
+    color: #fff;
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+  }
+  .info-block-btn {
+    position: relative;
+    width: 100px;
+    top: -10px;
+    left: 0px;
+  }
+}
+.third-slide {
+  position: relative;
+  height: 831px;
+  display: flex;
+  justify-content: center;
+  padding-top: 132px;
+}
+.third-slide_text {
+  text-align: center;
+  width: 294px;
+  margin: 0;
+  height: 62px;
+  position: absolute;
+  font-family: "Tinos";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 54px;
+  line-height: 62px;
+}
+.third-slide_text span {
+  color: #D67E34;
+}
+
+.third-slide__images_image-1-2 {
+  margin-bottom: 29px;
+}
+
+.images-slide {
+  position: relative;
+  display: flex;
+  align-items: center;
+  top: 40%;
+}
+
+.images-slide-text {
+  position: relative;
+  padding-top: 100px;
+}
+
+.text-block {
+  font-family: "Tinos";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+  height: 140px;
+  margin-bottom: 28px;
+}
+.text-block:last-child {
+  margin-bottom: 0;
+}
+
+@media screen and (min-width: 1399px) {
+  .fourth-slide {
+    background-image: url("https://cdn.discordapp.com/attachments/1063547986371682345/1064522562098442370/fourth-slide-fon.png");
+    background-size: 100%;
+    height: 800px;
+    --moz-background-size:100%;
+    -webkit-background-size: 100%;
+    -o-background-size: 100%;
+  }
+}
+@media screen and (max-width: 1399px) {
+  .fourth-slide {
+    background-image: url("https://cdn.discordapp.com/attachments/1063547986371682345/1064522562098442370/fourth-slide-fon.png");
+    height: 800px;
+  }
+}
+.fourth-slide {
+  position: relative;
+  top: 322px;
+}
+.fourth-slide_text {
+  width: 100%;
+  position: absolute;
+  top: 40px;
+  text-align: center;
+  font-family: "Tinos";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 54px;
+  line-height: 62px;
+  color: #FFFFFF;
+  text-shadow: 5px 5px 4px rgba(0, 0, 0, 0.25);
+}
+.fourth-slide__cards {
+  position: relative;
+  max-width: 1110px;
+  margin: 0 auto;
+}
+.fourth-slide__cards_card-1 {
+  text-align: center;
+  width: 280px;
+  padding-top: 80px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.fourth-slide__cards_big-text {
+  font-family: "Tinos";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 30px;
+  margin-bottom: 17px;
+}
+.fourth-slide__cards_small-text {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.fourth-slide__cards img {
+  display: inline;
+  margin: 0 auto;
+  width: 200px;
+  border-radius: 1000px;
+  margin-bottom: 16px;
+}
+.fourth-slide__cards_btn {
+  width: 220px;
+  height: 50px;
+  background: #D67E34;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  align-items: center;
+  margin-bottom: 29px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+}
+.fourth-slide__cards_btn a {
+  text-decoration: none;
+  color: #fff;
+}
+
+#card-3 {
+  position: absolute;
+  top: 150px;
+  left: 68%;
+}
+
+#card-2 {
+  position: absolute;
+  top: 150px;
+  left: 38%;
+}
+
+#card-1 {
+  position: absolute;
+  top: 150px;
+  left: 8%;
+}
+
+@media screen and (min-width: 1400px) {
+  .fifth-slide {
+    max-width: 1320px;
+  }
+}
+.fifth-slide {
+  margin: 0 auto;
+  position: relative;
+  top: 322px;
+  background: #E6E5E5;
+  padding-top: 104px;
+  padding-bottom: 68px;
+  text-align: center;
+}
+.fifth-slide .comment {
+  max-width: 780px;
+  margin: 0 auto;
+  font-family: "Open Sans";
+  font-style: italic;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.fifth-slide img {
+  border-radius: 1000px;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 17px;
+}
+.fifth-slide span {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 27px;
+  display: block;
+  margin-bottom: 9px;
+}
+
+#second-span {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+  margin-bottom: 26px;
+}
+
+.mini-balls {
+  width: 25px;
+  height: 7px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+.mini-balls svg {
+  display: block;
+  margin-right: 4px;
+}
+.mini-balls svg:last-child {
+  width: 6px;
+}
+
+@media screen and (max-width: 992px) and (min-width: 768px) {
+  .fourth-slide__cards img {
+    width: 50%;
+  }
+  .fourth-slide__cards div {
+    width: 180px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .fourth-slide__cards img {
+    width: 50%;
+  }
+  .fourth-slide__cards div {
+    width: 150px;
+  }
+}
+@media screen and (max-width: 547px) {
+  .fourth-slide__cards img {
+    width: 50%;
+  }
+  .fourth-slide__cards div {
+    width: 120px;
+  }
+}
+@media screen and (max-width: 1199px) {
+  .third-slide__pizza {
+    width: 400px;
+  }
+  .big-pizza {
+    margin-right: 5px;
+  }
+  .images-slide-text {
+    max-width: 250px;
+  }
+  .third-slide__images img {
+    width: 140px;
+  }
+  .images-slide-text div {
+    font-size: 20px;
+  }
+  .images-slide-text div img {
+    width: 10px;
+  }
+}
+@media screen and (max-width: 992px) {
+  .third-slide__pizza {
+    width: 300px;
+  }
+  .big-pizza {
+    margin-right: 5px;
+  }
+  .images-slide-text {
+    padding-top: 100px;
+    max-height: 550px;
+    max-width: 250px;
+  }
+  .images-slide-text .text-block {
+    height: 118px;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .third-slide__images img {
+    width: 100px;
+  }
+  .images-slide-text div {
+    font-size: 20px;
+  }
+  .images-slide-text div img {
+    width: 10px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .third-slide__pizza {
+    width: 200px;
+  }
+  .big-pizza {
+    margin-right: 5px;
+  }
+  .images-slide-text {
+    padding-top: 20px;
+    max-height: 550px;
+    max-width: 200px;
+  }
+  .images-slide-text .text-block {
+    height: 90px;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .third-slide__images img {
+    width: 60px;
+  }
+  .images-slide-text div {
+    font-size: 20px;
+  }
+  .images-slide-text div img {
+    width: 10px;
+  }
+}
+@media screen and (max-width: 493px) {
+  .third-slide__pizza {
+    width: 150px;
+  }
+  .big-pizza {
+    margin-right: 5px;
+  }
+  .images-slide-text {
+    padding-top: 50px;
+    max-height: 550px;
+    max-width: 100px;
+  }
+  .images-slide-text .text-block {
+    height: 60px;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .third-slide__images img {
+    width: 40px;
+  }
+  .images-slide-text div {
+    line-height: 10px;
+    font-size: 13px;
+  }
+  .images-slide-text div img {
+    width: 10px;
+  }
+}
+@media screen and (max-width: 661px) {
+  .big-text {
+    font-size: 30px;
+  }
+  .small-text {
+    font-size: 15px;
+  }
+}
+@media screen and (max-width: 498px) {
+  .big-text {
+    font-size: 26px;
+  }
+  .small-text {
+    font-size: 13px;
+  }
+}
+@media screen and (max-width: 434px) {
+  .big-text-block {
+    top: 120px;
+  }
+  .big-text-block button {
+    font-size: 10px;
+    height: 40px;
+    width: 80px;
+  }
+  .big-text {
+    font-size: 26px;
+  }
+  .small-text {
+    font-size: 13px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .cards {
+    display: flex;
+    flex-direction: column;
+    max-width: 350px;
+  }
+}
+.navbar-collapse button span {
+  z-index: 1;
+}
+
+.main-text_text-1 {
+  z-index: 0;
+}/*# sourceMappingURL=style.css.map */
